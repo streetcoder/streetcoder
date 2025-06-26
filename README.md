@@ -27,8 +27,6 @@
 - **Next.js Portfolio** – A modern personal portfolio to showcase my work and blog.  
   Stack: Next.js, Tailwind CSS, MDX
 
-- **AI SaaS (WIP)** – Building a tool for coaches and therapists to generate smart client notes using AI.
-
 ---
 
 ## 📚 Currently Learning
@@ -41,9 +39,9 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/akhirul-islam/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/streetcoder/)  
 - 💬 Open to collaboration, freelancing, or full-time roles  
-- ✉️ Email: `akhirul.cse@gmail.com`
+- ✉️ Email: `akhirulislam.shimul@gmail.com`
 
 ---
 
